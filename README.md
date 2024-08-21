@@ -1,2 +1,3 @@
-# Multiplayer_GAS_Unreal_Demo
-Game demonstrating using Unreal's Gameplay Ability System in a simple multiplayer game
+Unreal Engine 5 multiplayer game demonstrating Gameplay Ability System
+
+> _Only the C++ is provided at this time._
